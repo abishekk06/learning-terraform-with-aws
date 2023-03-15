@@ -21,7 +21,7 @@ terraform {
 
 # Provider Block
 provider "aws" {
-  region     = "ap-south-1a"
+  region     = "ap-south-1"
   access_key = "PUT-YOUR-ACCESS-KEY-HERE"
   secret_key = "PUT-YOUR-SECRET-KEY-HERE"
 }
